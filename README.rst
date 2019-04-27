@@ -7,7 +7,7 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 - Rozpocząnając pracę z projektem (wykorzystując virtualenv). Hermetyczne środowisko dla pojedyńczej aplikacji w python-ie:
 
   ::
-    # uzyj komend make 
+    # uzyj komend make
     # centos, add to ~/.bashrc
     $ source /usr/bin/virtualenvwrapper.sh
 
@@ -51,6 +51,8 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
     $ deactivate
 
 - Integracja z TravisCI:
+.. image:: https://travis-ci.org/Gabi2801/se_hello_printer_app.svg?branch=master
+    :target: https://travis-ci.org/Gabi2801/se_hello_printer_app
 
   ::
 
