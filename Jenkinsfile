@@ -10,7 +10,7 @@ pipeline {
              steps {
                     sh 'make linter'
                }
-        {              
+        }              
         stage('Test') {
             steps {
                     sh 'make test'
