@@ -54,7 +54,10 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 .. image:: https://travis-ci.org/Gabi2801/se_hello_printer_app.svg?branch=master
     :target: https://travis-ci.org/Gabi2801/se_hello_printer_app
 
-Monitoring adresu url na stronie statuscake.com
+- StatusCake
+.. image:: https://app.statuscake.com/button/index.php?Track=ERTQiYBzXR&Days=1&Design=1
+    :target: https://www.statuscake.com 
+
 
 Pomocnicze
 ==========
