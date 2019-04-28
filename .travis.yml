@@ -12,5 +12,5 @@ script:
   - make docker_push
 deploy:
   provider: heroku
-  api_key:
-    secure: "YOUR ENCRYPTED API KEY"
+  app: fathomless-inlet-40457
+  api_key: ${HEROKU_API_KEY}
